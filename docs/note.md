@@ -1,0 +1,1 @@
+Document necessary information relevant to project e.g. reports, system architecture
